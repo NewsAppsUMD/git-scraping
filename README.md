@@ -40,7 +40,7 @@ jobs:
         run: pip install requests bs4
 
       - name: run scraper
-        run: python scrapers/legislature/scrape.py
+        run: python scrapers/physicians/scrape.py
 
       - name: "Commit and push if it changed"
         run: |-
