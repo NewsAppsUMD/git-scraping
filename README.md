@@ -12,7 +12,7 @@ Using the repository you created for the first Web scraper assignment, open it u
 
 ### First Steps
 
-1. A .github directory should already exist, so cd into it: `cd .github`.
+1. Create a .github directory if it does not exist, and cd into it: `cd .github`.
 2. Create a worflows directory: `mkdir workflows` and `cd` into that.
 3. Create a blank YAML file in that directory called scrape.yaml: `touch scrape.yaml`
 4. Here's some sample text to put in that file (copy all of it):
